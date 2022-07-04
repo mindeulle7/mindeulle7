@@ -7,4 +7,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)	![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mindeulle)](https://solved.ac/mindeulle)<br/>
-
